@@ -39,7 +39,6 @@ apis:
   - name: Webdam
     description: "Images"
     humanURL: https://www.damsuccess.com/hc/en-us/articles/202134055-REST-API
-    baseURL: https://www.damsuccess.com/hc/en-us/articles/202134055-REST-API
     tags:
       - Photography
     properties:
